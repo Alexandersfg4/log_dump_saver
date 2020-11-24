@@ -1,8 +1,8 @@
 # Overview
 
-The script let you to save your actual logs, mongodump, mysqldump from 3 host system to unique folder
+The script let you to save your actual logs, mongodump, mysqldump from 3 host system to unique folder 1434 × 1650
 
-<img src="https://github.com/Alexandersfg4/pictures/blob/master/Screenshot%202020-11-24%20at%2021.33.35.png" height="627" width="398">
+<img src="https://github.com/Alexandersfg4/pictures/blob/master/Screenshot%202020-11-24%20at%2021.33.35.png" height="717" width="825">
 
 ## Installing
 ```
